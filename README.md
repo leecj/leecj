@@ -2,7 +2,7 @@
 <img align="left" src="https://raw.githubusercontent.com/L0um15/L0um15/master/svg/artificialintelligence.svg" height="162px" />
 </div>
 
-<h1 align="center">Hi，ShenQingchuan here!</h1>
+<h1 align="center">Hi，LiChengJun here!</h1>
 
 <h3 align="center">Languages & Tech Stack</h3>
 <p align="center">
